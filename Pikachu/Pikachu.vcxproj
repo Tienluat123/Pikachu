@@ -202,6 +202,7 @@
     <ClCompile Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Setting.cpp" />
     <ClCompile Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Structure.cpp" />
     <ClCompile Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Utility.cpp" />
+    <ClCompile Include="LeaderBoard.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Checking.h" />
@@ -211,6 +212,7 @@
     <ClInclude Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Setting.h" />
     <ClInclude Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Structure.h" />
     <ClInclude Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Utility.h" />
+    <ClInclude Include="LeaderBoard.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Hard.txt" />

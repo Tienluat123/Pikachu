@@ -63,11 +63,11 @@
     <ClCompile Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Utility.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LeaderBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Checking.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\..\..\Downloads\Game--main (1)\Game--main\CheckingLinkedList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -84,6 +84,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Utility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Game--main (1)\Game--main\Checking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LeaderBoard.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
